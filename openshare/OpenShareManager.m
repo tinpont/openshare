@@ -6,7 +6,7 @@
 //  Copyright (c) 2015年 OpenShare. All rights reserved.
 //
 
-#import "OpenShare.h"
+#import "OpenShareManager.h"
 
 @implementation OpenShare
 /**
